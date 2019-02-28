@@ -1,0 +1,3 @@
+﻿  ProvaForms.cpp
+c:\users\pc\documents\jofre_projecte-codelearn\windowsapp\provaforms\provaforms\provaforms.cpp(172): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  ProvaForms.vcxproj -> C:\Users\Pc\Documents\Jofre_Projecte-Codelearn\WindowsApp\ProvaForms\x64\Debug\ProvaForms.exe
